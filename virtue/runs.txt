@@ -1,0 +1,1 @@
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=True, nruns=1, grid_search=False, save=True)

@@ -1,0 +1,17 @@
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=False, nruns=1, grid_search=False, save=False)
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=False, nruns=1, grid_search=False, save=False)
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=False, nruns=1, grid_search=False, save=False)
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=False, nruns=1, grid_search=False, save=False)
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=True, nruns=1, grid_search=False, save=False)
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=True, nruns=1, grid_search=False, save=False)
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=True, nruns=1, grid_search=False, save=False)
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=True, nruns=1, grid_search=False, save=False)
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=True, nruns=1, grid_search=False, save=False)
+Run 0 test hard acc: 0.475 test acc: 0.438 test hard em: 0.000000 test em: 0.000
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=True, nruns=1, grid_search=False, save=True)
+Run 0 test hard acc: 0.475 test acc: 0.438 test hard em: 0.000000 test em: 0.000
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=True, nruns=1, grid_search=False, save=True)
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=2, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=True, nruns=1, grid_search=False, save=True)
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=1, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=True, nruns=1, grid_search=False, save=True)
+Run 0 test hard acc: 0.629 test acc: 0.771 test hard em: 0.053167 test em: 0.257
+Namespace(model='bert-base-uncased', ngpus=2, nepochs=1, batch_size=16, max_length=64, weight_decay=0.01, learning_rate=2e-05, verbose=False, nruns=1, grid_search=False, save=False)
